@@ -119,7 +119,7 @@ EDUCATION = [
 ]
 
 EXPERIENCE = [
-    ("2025 (3 mois)", "Stage — Numeryk", ["Découverte environnement pro", "Participation activités techniques", "Adaptation aux processus"]),
+    ("2025 (3 mois)", "Stage — Numeryx", ["Découverte environnement pro", "Participation activités techniques", "Adaptation aux processus"]),
     ("Oct. 2023", "Stage — Girls Can Code (École 42 Paris)", ["Initiation programmation/algorithmique", "Travail en équipe"]),
     ("Sept. 2023", "Stage — Girls Can Code (ECE Paris)", ["Création de sites web", "Découverte environnement Linux"]),
     ("—", "Expériences complémentaires", ["Vendeuse au marché", "Garde d’enfants", "Aide aux devoirs"]),
